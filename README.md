@@ -13,7 +13,7 @@
 # 点击图片跳转
 [![文档配图](wechat_2025-09-05_153356_729.png)](https://www.baidu.com)
 
-<a href="https://www.baidu.com" target="_blank">
+<a href="https://www.baidu.com" target="_blank" rel="noopener noreferrer">
   <img src="wechat_2025-09-05_153356_729.png" alt="图片描述">
 </a>
 
